@@ -181,10 +181,11 @@ h3 {
 
 .navbar-nav .nav-item a {
     text-align: left;
+    font-size: 32px;
 }
 
 h1,h2,h3,p, nav {
-   font-size: 22px;
+   font-size: 32px;
 }
 }
 

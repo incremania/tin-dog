@@ -95,9 +95,7 @@ color: white;
 .image-test {
     width: 10%;
     border-radius: 100%;
-    position: relative;
-    z-index: -1;
-     
+    position: relative;  
     
 }
 
